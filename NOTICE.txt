@@ -1,0 +1,27 @@
+Endfield Skydoc — licensing scope
+
+Except where otherwise indicated, documentation and English translations
+provided by Endfield Skydoc are available under CC BY-SA 4.0, to the extent
+the respective authors and contributors own or are authorized to license
+those rights. The complete license is provided in LICENSE.
+
+Original authors and contributors retain copyright. Reuse must preserve
+author names, source links, existing attribution and translation notices;
+credit Endfield Skydoc contributors for translation, link to CC BY-SA 4.0,
+and indicate changes. Attribution to this mirror does not replace original
+author credit. Shared adaptations must comply with ShareAlike.
+
+Separately licensed or attributed third-party documents, images, attachments,
+quotations, game artwork/screenshots, logos and trademarks remain subject
+to their existing rights and terms. This notice does not override them or
+license rights that contributors do not control. Public availability is
+not, by itself, a copyright license.
+
+Website software, fonts and dependencies retain their own licenses.
+CC BY-SA 4.0 does not replace their license terms; see THIRD-PARTY-NOTICES.txt.
+No claim is made that every copied third-party asset is independently
+available under CC BY-SA 4.0.
+
+Original collection: https://docs.qq.com/aio/DTmluZ1diWlpQZldw
+Project: https://github.com/kokobird28144/endfield-skydoc
+Licensing details: https://kokobird28144.github.io/endfield-skydoc/licensing
