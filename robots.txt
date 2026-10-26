@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://kokobird28144.github.io/endfield-skydoc/sitemap.xml
