@@ -48,6 +48,7 @@
   <url><loc>https://kokobird28144.github.io/endfield-skydoc/automatic-production-balancing-explanation-script</loc></url>
   <url><loc>https://kokobird28144.github.io/endfield-skydoc/automatic-support-bot-discussion</loc></url>
   <url><loc>https://kokobird28144.github.io/endfield-skydoc/automatic-switching-for-reactions-with-multiple-raw-materials</loc></url>
+  <url><loc>https://kokobird28144.github.io/endfield-skydoc/basic-control-structures-summary</loc></url>
   <url><loc>https://kokobird28144.github.io/endfield-skydoc/basic-factory-principles</loc></url>
   <url><loc>https://kokobird28144.github.io/endfield-skydoc/binary-flow-stabilizer</loc></url>
   <url><loc>https://kokobird28144.github.io/endfield-skydoc/blocking-flow-calculation</loc></url>
@@ -60,6 +61,7 @@
   <url><loc>https://kokobird28144.github.io/endfield-skydoc/changelog/capture-2026-10-31T09-54-42-118Z-d35b38c3</loc></url>
   <url><loc>https://kokobird28144.github.io/endfield-skydoc/changelog/capture-2026-11-08T14-43-43-693Z-b04528fe</loc></url>
   <url><loc>https://kokobird28144.github.io/endfield-skydoc/changelog/capture-2026-11-14T07-40-38-165Z-a1e1e549</loc></url>
+  <url><loc>https://kokobird28144.github.io/endfield-skydoc/changelog/capture-2026-11-23T06-44-45-722Z-4358a738</loc></url>
   <url><loc>https://kokobird28144.github.io/endfield-skydoc/changes-caused-by-going-offline</loc></url>
   <url><loc>https://kokobird28144.github.io/endfield-skydoc/chubby-lung-factory-event-notes</loc></url>
   <url><loc>https://kokobird28144.github.io/endfield-skydoc/coarse-grained-modeling-based-on-response-delay</loc></url>
@@ -71,8 +73,10 @@
   <url><loc>https://kokobird28144.github.io/endfield-skydoc/connecting-the-xircon-production-line</loc></url>
   <url><loc>https://kokobird28144.github.io/endfield-skydoc/constructing-1-n-graphs-using-the-method-in-the-upper-bound-proof-in</loc></url>
   <url><loc>https://kokobird28144.github.io/endfield-skydoc/constructing-production-line-node-components</loc></url>
+  <url><loc>https://kokobird28144.github.io/endfield-skydoc/control-structures-for-different-materials</loc></url>
   <url><loc>https://kokobird28144.github.io/endfield-skydoc/controlling-the-share-of-pingtubers-sent-to-starch-with-the-number-of</loc></url>
   <url><loc>https://kokobird28144.github.io/endfield-skydoc/conventional-priority-architectures</loc></url>
+  <url><loc>https://kokobird28144.github.io/endfield-skydoc/converger-control</loc></url>
   <url><loc>https://kokobird28144.github.io/endfield-skydoc/credit-shop-stock</loc></url>
   <url><loc>https://kokobird28144.github.io/endfield-skydoc/damping-theory-revised</loc></url>
   <url><loc>https://kokobird28144.github.io/endfield-skydoc/damping-theory-revisions-and-extensions</loc></url>
@@ -136,6 +140,7 @@
   <url><loc>https://kokobird28144.github.io/endfield-skydoc/milp-method-madsun</loc></url>
   <url><loc>https://kokobird28144.github.io/endfield-skydoc/mixed-packaging-of-basic-medicine-separator-core</loc></url>
   <url><loc>https://kokobird28144.github.io/endfield-skydoc/modified-quantitative-calculator</loc></url>
+  <url><loc>https://kokobird28144.github.io/endfield-skydoc/multi-input-machine-control</loc></url>
   <url><loc>https://kokobird28144.github.io/endfield-skydoc/network-flow-theory-for-blocking-round-robin-inputs-and-outputs</loc></url>
   <url><loc>https://kokobird28144.github.io/endfield-skydoc/new-folder</loc></url>
   <url><loc>https://kokobird28144.github.io/endfield-skydoc/new-player-progression-and-precautions-wuling</loc></url>
@@ -205,10 +210,10 @@
   <url><loc>https://kokobird28144.github.io/endfield-skydoc/tianshi-academy-and-chishi-academy-of-sciences-online-documentation</loc></url>
   <url><loc>https://kokobird28144.github.io/endfield-skydoc/tutorial-floating-devices-in-farming-areas</loc></url>
   <url><loc>https://kokobird28144.github.io/endfield-skydoc/underlying-logic-of-ai-automated-research</loc></url>
-  <url><loc>https://kokobird28144.github.io/endfield-skydoc/uniform-binary</loc></url>
   <url><loc>https://kokobird28144.github.io/endfield-skydoc/unifying-terminology-and-building-a-dictionary</loc></url>
   <url><loc>https://kokobird28144.github.io/endfield-skydoc/version</loc></url>
   <url><loc>https://kokobird28144.github.io/endfield-skydoc/video-production-on-dispatch-goods-pricing-rules</loc></url>
+  <url><loc>https://kokobird28144.github.io/endfield-skydoc/what-do-we-mean-by-reaching-equilibrium</loc></url>
   <url><loc>https://kokobird28144.github.io/endfield-skydoc/where-do-the-oscillations-come-from</loc></url>
   <url><loc>https://kokobird28144.github.io/endfield-skydoc/will-oscillatory-input-be-further-amplified</loc></url>
   <url><loc>https://kokobird28144.github.io/endfield-skydoc/x-a</loc></url>
@@ -264,6 +269,7 @@
   <url><loc>https://kokobird28144.github.io/endfield-skydoc/zh/automatic-production-balancing-explanation-script</loc></url>
   <url><loc>https://kokobird28144.github.io/endfield-skydoc/zh/automatic-support-bot-discussion</loc></url>
   <url><loc>https://kokobird28144.github.io/endfield-skydoc/zh/automatic-switching-for-reactions-with-multiple-raw-materials</loc></url>
+  <url><loc>https://kokobird28144.github.io/endfield-skydoc/zh/basic-control-structures-summary</loc></url>
   <url><loc>https://kokobird28144.github.io/endfield-skydoc/zh/basic-factory-principles</loc></url>
   <url><loc>https://kokobird28144.github.io/endfield-skydoc/zh/binary-flow-stabilizer</loc></url>
   <url><loc>https://kokobird28144.github.io/endfield-skydoc/zh/blocking-flow-calculation</loc></url>
@@ -276,6 +282,7 @@
   <url><loc>https://kokobird28144.github.io/endfield-skydoc/zh/changelog/capture-2026-10-31T09-54-42-118Z-d35b38c3</loc></url>
   <url><loc>https://kokobird28144.github.io/endfield-skydoc/zh/changelog/capture-2026-11-08T14-43-43-693Z-b04528fe</loc></url>
   <url><loc>https://kokobird28144.github.io/endfield-skydoc/zh/changelog/capture-2026-11-14T07-40-38-165Z-a1e1e549</loc></url>
+  <url><loc>https://kokobird28144.github.io/endfield-skydoc/zh/changelog/capture-2026-11-23T06-44-45-722Z-4358a738</loc></url>
   <url><loc>https://kokobird28144.github.io/endfield-skydoc/zh/changes-caused-by-going-offline</loc></url>
   <url><loc>https://kokobird28144.github.io/endfield-skydoc/zh/chubby-lung-factory-event-notes</loc></url>
   <url><loc>https://kokobird28144.github.io/endfield-skydoc/zh/coarse-grained-modeling-based-on-response-delay</loc></url>
@@ -287,8 +294,10 @@
   <url><loc>https://kokobird28144.github.io/endfield-skydoc/zh/connecting-the-xircon-production-line</loc></url>
   <url><loc>https://kokobird28144.github.io/endfield-skydoc/zh/constructing-1-n-graphs-using-the-method-in-the-upper-bound-proof-in</loc></url>
   <url><loc>https://kokobird28144.github.io/endfield-skydoc/zh/constructing-production-line-node-components</loc></url>
+  <url><loc>https://kokobird28144.github.io/endfield-skydoc/zh/control-structures-for-different-materials</loc></url>
   <url><loc>https://kokobird28144.github.io/endfield-skydoc/zh/controlling-the-share-of-pingtubers-sent-to-starch-with-the-number-of</loc></url>
   <url><loc>https://kokobird28144.github.io/endfield-skydoc/zh/conventional-priority-architectures</loc></url>
+  <url><loc>https://kokobird28144.github.io/endfield-skydoc/zh/converger-control</loc></url>
   <url><loc>https://kokobird28144.github.io/endfield-skydoc/zh/credit-shop-stock</loc></url>
   <url><loc>https://kokobird28144.github.io/endfield-skydoc/zh/damping-theory-revised</loc></url>
   <url><loc>https://kokobird28144.github.io/endfield-skydoc/zh/damping-theory-revisions-and-extensions</loc></url>
@@ -352,6 +361,7 @@
   <url><loc>https://kokobird28144.github.io/endfield-skydoc/zh/milp-method-madsun</loc></url>
   <url><loc>https://kokobird28144.github.io/endfield-skydoc/zh/mixed-packaging-of-basic-medicine-separator-core</loc></url>
   <url><loc>https://kokobird28144.github.io/endfield-skydoc/zh/modified-quantitative-calculator</loc></url>
+  <url><loc>https://kokobird28144.github.io/endfield-skydoc/zh/multi-input-machine-control</loc></url>
   <url><loc>https://kokobird28144.github.io/endfield-skydoc/zh/network-flow-theory-for-blocking-round-robin-inputs-and-outputs</loc></url>
   <url><loc>https://kokobird28144.github.io/endfield-skydoc/zh/new-folder</loc></url>
   <url><loc>https://kokobird28144.github.io/endfield-skydoc/zh/new-player-progression-and-precautions-wuling</loc></url>
@@ -421,10 +431,10 @@
   <url><loc>https://kokobird28144.github.io/endfield-skydoc/zh/tianshi-academy-and-chishi-academy-of-sciences-online-documentation</loc></url>
   <url><loc>https://kokobird28144.github.io/endfield-skydoc/zh/tutorial-floating-devices-in-farming-areas</loc></url>
   <url><loc>https://kokobird28144.github.io/endfield-skydoc/zh/underlying-logic-of-ai-automated-research</loc></url>
-  <url><loc>https://kokobird28144.github.io/endfield-skydoc/zh/uniform-binary</loc></url>
   <url><loc>https://kokobird28144.github.io/endfield-skydoc/zh/unifying-terminology-and-building-a-dictionary</loc></url>
   <url><loc>https://kokobird28144.github.io/endfield-skydoc/zh/version</loc></url>
   <url><loc>https://kokobird28144.github.io/endfield-skydoc/zh/video-production-on-dispatch-goods-pricing-rules</loc></url>
+  <url><loc>https://kokobird28144.github.io/endfield-skydoc/zh/what-do-we-mean-by-reaching-equilibrium</loc></url>
   <url><loc>https://kokobird28144.github.io/endfield-skydoc/zh/where-do-the-oscillations-come-from</loc></url>
   <url><loc>https://kokobird28144.github.io/endfield-skydoc/zh/will-oscillatory-input-be-further-amplified</loc></url>
   <url><loc>https://kokobird28144.github.io/endfield-skydoc/zh/x-a</loc></url>
